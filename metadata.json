@@ -1,0 +1,6 @@
+{
+  "name": "AI Educational Content Generator",
+  "description": "A tool to generate educational materials like lesson plans and study guides using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
